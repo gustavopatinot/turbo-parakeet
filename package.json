@@ -1,0 +1,23 @@
+{
+  "name": "turbo-parakeet",
+  "version": "1.0.0",
+  "description": "Proyecto React y JWT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "API",
+    "Backend"
+  ],
+  "author": "Gustavo Toro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
